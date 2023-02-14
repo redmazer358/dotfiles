@@ -10,10 +10,17 @@
 7. sddm <br>
 8. vim <br>
 
-<h4> Theming </h4>
+<h4> Theming and Themes </h4>
 1. lxappearence <br>
 2. qt5ct <br>
 3. kvantum <br>
+4. Papirus icon pack <br>
+5. materia kvantum theme <br>
+
+<h4> Themes and Fonts</h4>
+1. Papirus icon pack <br>
+2. materia kvantum theme <br>
+3. Fira Code Nerd Fonts <br>
 
 <h4> Utility </h4>
 1. pulseaudio <br>
