@@ -4,19 +4,18 @@
 1. bspwm <br>
 2. sxhkd <br>
 3. feh <br>
-4. alacritty <br>
+4. qterminal <br>
 5. polybar <br>
 6. rofi <br>
 7. sddm <br>
 8. vim <br>
 9. flatpak <br>
+10. pcmanfm-qt <br>
 
-<h4> Theming and Themes </h4>
+<h4> Theming </h4>
 1. lxappearence <br>
 2. qt5ct <br>
 3. kvantum <br>
-4. Papirus icon pack <br>
-5. materia kvantum theme <br>
 
 <h4> Themes and Fonts</h4>
 1. Papirus icon pack <br>
