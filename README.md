@@ -9,6 +9,7 @@
 6. rofi <br>
 7. sddm <br>
 8. vim <br>
+9. flatpak <br>
 
 <h4> Theming and Themes </h4>
 1. lxappearence <br>
@@ -28,6 +29,7 @@
 3. brightnessctl <br>
 4. scrot <br>
 5. betterlockscreen <br>
+6. dunst <br>
 
 <h4> Multimedia and Internet </h4>
 1. firefox <br>
