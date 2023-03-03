@@ -16,3 +16,6 @@
 <li>Theming: kvantum, qt5ct, lxappearance</li>
 <li>Compositor: picomm</li> 
 </ul>
+
+<h2>Dotfile Theme</h2>
+<h4>Dark Green</h4>
