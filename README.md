@@ -11,4 +11,7 @@
 <li>LS: betterlockscreen</li>
 <li>DM: sddm</li>
 <li>DM-theme: sugar-candy</li>
+<li>Notif: dunst</li>
+<li>Utils: pulseaudio, alsa-utils, scrot(screenshot),brightnessctl(screen brightness) </li>
+<li>Theming: kvantum, qt5ct, lxappearance</li>
 </ul>
