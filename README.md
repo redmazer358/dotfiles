@@ -14,4 +14,5 @@
 <li>Notif: dunst</li>
 <li>Utils: pulseaudio, alsa-utils, scrot(screenshot),brightnessctl(screen brightness) </li>
 <li>Theming: kvantum, qt5ct, lxappearance</li>
+<li>Compositor: picomm</li> 
 </ul>
