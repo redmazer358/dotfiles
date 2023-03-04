@@ -1,0 +1,63 @@
+*{
+	color0: #272727;
+	color1: #d8dee9;
+	color2: #4c566a29;
+	color3: #a3be8c;
+	background-color: transparent;
+	text-color: @color1;
+}
+
+configuration {
+	font: "FiraCode 12";
+}
+
+window { 
+	background-color: @color0;
+	height: 28%;
+	width: 20%;
+	border-radius: 5px;
+}
+
+case-indicator {
+	enabled: false;
+}
+
+prompt {
+	enabled: false;
+}
+
+inputbar {
+	 enabled: false;
+}
+
+entry{
+	enabled: false;
+}
+
+
+message { 
+	margin: 20px 150px;
+}
+
+element,element-text,element-icon {
+	cursor: pointer;
+}
+
+element {
+	margin:0px 20px;
+}
+
+element selected {
+	background-color: @color2;
+	border-radius: 5px;
+	padding:1px;
+}
+
+element-icon {
+	size: 1em;
+	margin: 10px;
+}
+
+element-text {
+	vertical-align: 0.5;
+}

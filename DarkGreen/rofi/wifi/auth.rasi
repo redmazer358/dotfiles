@@ -1,0 +1,44 @@
+*{
+	color0: #272727;
+	color1: #d8dee9;
+	color2: #4c566a29;
+	color3: #a3be8c;
+	background-color: transparent;
+	text-color: @color1;
+}
+
+configuration {
+	font: "FiraCode 12";
+}
+
+window { 
+	background-color: @color0;
+	width: 20%;
+	height: 15%;
+	border-radius: 5px;
+}
+
+case-indicator {
+	enabled: false;
+}
+
+prompt {
+	enabled: false;
+}
+
+inputbar {
+	 padding: 32px 20px 0 20px;
+}
+
+entry{
+	placeholder: "Enter Password";
+	padding: 12px;
+	margin: 15px 0;
+	background-color: @color2;
+	border-radius: 10px;
+}
+
+element {
+	enabled: false;
+}
+

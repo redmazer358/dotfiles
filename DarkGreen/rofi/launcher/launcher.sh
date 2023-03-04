@@ -1,0 +1,1 @@
+exec rofi -show drun
